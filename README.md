@@ -14,9 +14,9 @@ Once you download the projects you will get the following content:
 
 
 
-# [Download Final Year Projects](https://vtupulse.com/)
+## [Download Final Year Projects](https://vtupulse.com/)
 
-1. [Malaria Disease Prediction System using Deep Learning with Flask App Project](https://vtupulse.com/product/malaria-disease-prediction-system-using-deep-learning-with-flask-app-project/)
+1. [Malaria Disease Prediction System using Deep Learning with Flask App Project](https://vtupulse.com/product/malaria-disease-prediction-system-using-deep-learning-with-flask-app-project/) --- [Click for Vido Demonstration](https://youtu.be/_2pubt2NKwg)
 
 2. [Disease Prediction from Symptoms using Machine Learning with Flask App](https://vtupulse.com/product/disease-prediction-from-symptoms-using-machine-learning-with-flask-app-project/)
 
@@ -33,7 +33,3 @@ Once you download the projects you will get the following content:
 8. [Credit Card Fraud Detection Using Machine Learning](https://vtupulse.com/product/credit-card-fraud-detection-using-machine-learning-project/)
 
 9. [Pneumonia Detection (Prediction) from Chest X-Ray Using Deep Learning with Flask App](https://vtupulse.com/product/pneumonia-detection-from-chest-x-ray-with-flask-app-deep-learning-project/)
-
-
-| SL. No | Project Name | Link to Download | Video Demonstration |
-| 1. | abc | sjdn | ksa |
