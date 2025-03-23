@@ -17,6 +17,7 @@ Once you download the projects you will get the following content:
 ## [Download Final Year Projects](https://vtupulse.com/)
 
 1. [Malaria Disease Prediction System using Deep Learning with Flask App Project](https://vtupulse.com/product/malaria-disease-prediction-system-using-deep-learning-with-flask-app-project/)
+
    [Click for Video Demonstration](https://youtu.be/_2pubt2NKwg)
 
 4. [Disease Prediction from Symptoms using Machine Learning with Flask App](https://vtupulse.com/product/disease-prediction-from-symptoms-using-machine-learning-with-flask-app-project/)
