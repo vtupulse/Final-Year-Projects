@@ -1,6 +1,19 @@
 # Final-Year-Projects
 Machine Learning Deep Learning Natural Language Processing Computer Vision Image Processing Final Year Projects
 
+Once you download the projects you will get the following content:
+
+1. Source Code
+2. Flask / Django / Tkinter App
+3. Dataset
+4. Trained Model
+5. Project Report (Both PDF and Word files)
+6. PowerPoint Presentation (PPT)
+7. Instructions to install the necessary Software and Libraries
+8. Step-by-step instructions to execute the project
+
+
+
 [Download Final Year Projects](https://vtupulse.com/)
 
 1. [Malaria Disease Prediction System using Deep Learning with Flask App Project](https://vtupulse.com/product/malaria-disease-prediction-system-using-deep-learning-with-flask-app-project/)
