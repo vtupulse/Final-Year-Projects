@@ -20,18 +20,34 @@ Once you download the projects you will get the following content:
 
    [Click for Video Demonstration](https://youtu.be/_2pubt2NKwg)
 
-4. [Disease Prediction from Symptoms using Machine Learning with Flask App](https://vtupulse.com/product/disease-prediction-from-symptoms-using-machine-learning-with-flask-app-project/)
+2. [Disease Prediction from Symptoms using Machine Learning with Flask App](https://vtupulse.com/product/disease-prediction-from-symptoms-using-machine-learning-with-flask-app-project/)
 
-5. [Heart Disease Prediction Using Machine Learning with Flask App](https://vtupulse.com/product/heart-disease-prediction-with-flask-app-using-machine-learning-project/)
+   [Click for Video Demonstration](https://youtu.be/-gQYtEpwDeo)
 
-6. [Plant Leaf Disease Detection Using Convolutional Neural Networks (CNN)](https://vtupulse.com/product/plant-leaf-disease-detection-project-source-code/)
+3. [Heart Disease Prediction Using Machine Learning with Flask App](https://vtupulse.com/product/heart-disease-prediction-with-flask-app-using-machine-learning-project/)
 
-7. [Salary Prediction End-to-End Machine Learning Project](https://vtupulse.com/product/salary-prediction-end-to-end-machine-learning-project-source-code/)
+   [Click for Video Demonstration](https://youtu.be/lBHGPrvXTTM)
 
-8. [Gesture and Voice-Control Based Virtual Mouse Using Machine Learning](https://vtupulse.com/product/gesture-and-voice-control-based-virtual-mouse-project/)
+4. [Plant Leaf Disease Detection Using Convolutional Neural Networks (CNN)](https://vtupulse.com/product/plant-leaf-disease-detection-project-source-code/)
 
-9. [Real-Time Facial Expression Recognition Using Convolutional Neural Networks](https://vtupulse.com/product/facial-expression-recognition-using-cnn-final-year-project/)
+   [Click for Video Demonstration](https://youtu.be/148eu_foNo8)
 
-10. [Credit Card Fraud Detection Using Machine Learning](https://vtupulse.com/product/credit-card-fraud-detection-using-machine-learning-project/)
+5. [Salary Prediction End-to-End Machine Learning Project](https://vtupulse.com/product/salary-prediction-end-to-end-machine-learning-project-source-code/)
 
-11. [Pneumonia Detection (Prediction) from Chest X-Ray Using Deep Learning with Flask App](https://vtupulse.com/product/pneumonia-detection-from-chest-x-ray-with-flask-app-deep-learning-project/)
+   [Click for Video Demonstration](https://youtu.be/T-qnf5X-YNQ)
+
+6. [Gesture and Voice-Control Based Virtual Mouse Using Machine Learning](https://vtupulse.com/product/gesture-and-voice-control-based-virtual-mouse-project/)
+
+   [Click for Video Demonstration](https://youtu.be/6OrA81OBYpc)
+
+7. [Real-Time Facial Expression Recognition Using Convolutional Neural Networks](https://vtupulse.com/product/facial-expression-recognition-using-cnn-final-year-project/)
+
+   [Click for Video Demonstration](https://youtu.be/gIKm2PvAEhY)
+
+8. [Credit Card Fraud Detection Using Machine Learning](https://vtupulse.com/product/credit-card-fraud-detection-using-machine-learning-project/)
+
+   [Click for Video Demonstration](https://youtu.be/BRaAU2vAG_c)
+
+9. [Pneumonia Detection (Prediction) from Chest X-Ray Using Deep Learning with Flask App](https://vtupulse.com/product/pneumonia-detection-from-chest-x-ray-with-flask-app-deep-learning-project/)
+
+    [Click for Video Demonstration](https://youtu.be/RFZI_GenO_4)
