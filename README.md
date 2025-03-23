@@ -35,4 +35,4 @@ Once you download the projects you will get the following content:
 9. [Pneumonia Detection (Prediction) from Chest X-Ray Using Deep Learning with Flask App](https://vtupulse.com/product/pneumonia-detection-from-chest-x-ray-with-flask-app-deep-learning-project/)
 
 
-SL. No | Project Name | Link to Download | VIdeo Demonstration
+| SL. No | Project Name | Link to Download | Video Demonstration |
